@@ -37,6 +37,9 @@
 <br />
 <br />
 
+<!-- GitHub Stats -->
+<img align="left" alt="luizaugustoventura's Github Stats" src="https://github-readme-stats.vercel.app/api?username=luizaugustoventura&show_icons=true&hide_border=true" />
+
 [website]:https://luizaugustoventura.com.br
 [facebook]:https://www.facebook.com/luizaugusto.ventura.3/
 [linkedin]:https://www.linkedin.com/in/luizaugustoventura
