@@ -1,7 +1,7 @@
 ### Hi there, I'm Luiz 👋
 
 ## I'm a Computer Science graduated software developer!
-- 🔭 I'm currently working on front-end development
+- 🔭 I'm currently working as a React Native mobile developer
 - 🌱 I'm currently learning a JS stack (Node.JS, ReactJS and React Native)
 - 💪 I'm looking to improve my coding skills, from good practices and code patterns to UX
 - 🥅 2020 Goals: Exploit even more the Open Source world
