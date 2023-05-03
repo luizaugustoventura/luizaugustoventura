@@ -4,7 +4,7 @@
 - 🔭 I'm currently working as a React Native mobile developer
 - 🌱 I'm currently learning Docker and a JS stack (Node.JS and React)
 - 💪 I'm looking to improve my development skills, from clean code to UX
-- 🥅 2022 Goals: Learn Clean Architecture principles and dive into DevOps
+- 🥅 2023 Goals: Learn Clean Architecture, DDD and TDD principles and dive into DevOps
 - ⚡ Fun fact: I'm a motorsports fan and I love to play guitar
 
 ### Connect with me:
