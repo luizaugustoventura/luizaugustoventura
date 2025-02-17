@@ -1,10 +1,11 @@
 ### Hi there, I'm Luiz 👋
 
-## I'm a Computer Science graduated software developer!
-- 🔭 I'm currently working as a React Native mobile developer
-- 🌱 I'm currently learning Docker and a JS stack (Node.JS and React)
-- 💪 I'm looking to improve my development skills, from clean code to UX
-- 🥅 2023 Goals: Learn Clean Architecture, DDD and TDD principles and dive into DevOps
+## A passionate computer scientist
+- 🔭 I'm currently working as Full Stack Software Engineer
+- 🌱 I'm currently learning Flutter
+- 💪 I'm constantly looking to improve UX designing skills
+- 🚀 I dream of being a Full Cycle Developer
+- 🥅 2025 Goals: Improve my knowledge Clean Architecture, Onion Architecture and DDD
 - ⚡ Fun fact: I'm a motorsports fan and I love to play guitar
 
 ### Connect with me:
